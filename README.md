@@ -1,3 +1,9 @@
+## About this repo
+
+This is a fork of the original phpBB project to add a defense method against cookie replay attack
+
+------
+
 [![phpBB](https://www.phpbb.com/theme/images/logos/blue/160x52.png)](http://www.phpbb.com)
 
 ## ABOUT
