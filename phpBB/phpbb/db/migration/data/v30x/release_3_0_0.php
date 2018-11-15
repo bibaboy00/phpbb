@@ -751,6 +751,7 @@ class release_3_0_0 extends \phpbb\db\migration\migration
 						'session_viewonline'	=> array('BOOL', 1),
 						'session_autologin'	=> array('BOOL', 0),
 						'session_admin'	=> array('BOOL', 0),
+                        'session_token' => array('CHAR:32', ''),
 					),
 					'PRIMARY_KEY'	=> 'session_id',
 					'KEYS'	=> array(
